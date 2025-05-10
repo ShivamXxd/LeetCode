@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+## Greedy
+|  |
+| ------- |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
