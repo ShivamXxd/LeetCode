@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ShivamXxd/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -52,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivamXxd/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
