@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivamXxd/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ShivamXxd/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ShivamXxd/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
