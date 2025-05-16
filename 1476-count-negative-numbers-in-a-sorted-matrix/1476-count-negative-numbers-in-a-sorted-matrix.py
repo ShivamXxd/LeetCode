@@ -4,9 +4,9 @@ class Solution:
         row = len(grid)
         col = len(grid[0])
         for i in range(row):
-            for j in range(col):
-                if grid[i][j] >= 0:
-                    continue
-                else:
+            for j in range(col - 1, -1, -1):
+                if grid[i][j] < 0:
                     count += 1
+                else:
+                    break
         return count 
