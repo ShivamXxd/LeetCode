@@ -3,9 +3,7 @@ class Solution:
         total = 0
         row = len(mat[0])
         for i in range(row):
-            for j in range(row):
-                if i == j:
-                    total += mat[i][j]
+            total += mat[i][i]
             total += mat[i][row - 1 - i]
         if len(mat) % 2 != 0:
             total -= mat[row // 2][row // 2]
