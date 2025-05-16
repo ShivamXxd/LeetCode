@@ -7,7 +7,6 @@ class Solution:
                 mat[indices[i][0]][j] += 1
             for j in range(m):
                 mat[j][indices[i][1]] += 1
-            print(mat)
         
         for i in range(m):
             for j in range(n):
