@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0861-flipping-an-image](https://github.com/ShivamXxd/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0898-transpose-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
