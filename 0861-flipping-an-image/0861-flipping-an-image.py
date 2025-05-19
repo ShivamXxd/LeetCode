@@ -4,8 +4,9 @@ class Solution:
         col = len(image[0])
 
         for i in range(row):
-            for j in range(col // 2):
-                image[i][j], image[i][col-j-1] = image[i][col-j-1], image[i][j]
+            # for j in range(col // 2):
+            #     image[i][j], image[i][col-j-1] = image[i][col-j-1], image[i][j]
+            image[i] = image[i][::-1]
         
         for i in range(row):
             for j in range(col):
