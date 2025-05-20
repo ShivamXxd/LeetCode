@@ -10,7 +10,6 @@ class Solution:
         for i in range(row):
             for j in range(col):
                 if matrix[i][j] == 0 and (i, j) in zeros:
-                    print(i, j)
                     for r in range(row):
                         matrix[r][j] = 0
                     for c in range(col):
