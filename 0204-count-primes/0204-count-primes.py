@@ -3,10 +3,12 @@ class Solution:
         # Sieve of Eratosthenes Method
         if n < 3:
             return 0
-        is_prime = [True] * n
-        is_prime[0] = is_prime[1] = False
-        for i in range(2, int(n**0.5) + 1):
-            if is_prime[i]:
-                for j in range(i*i, n, i):
-                    is_prime[j] = False
-        return sum(is_prime)
+        sieve = [True] * n
+        sieve[0] = sieve[1] = False
+        for i in range(4, n, 2):
+            sieve[i] = False
+        for i in range(3, int(n**0.5) + 1, 2):
+            if sieve[i]:
+                sieve[i*i:n:i*2] = [False] * len(sieve[i*i:n:i*2])
+        return sum(sieve)
+
