@@ -1,5 +1,6 @@
 class Solution:
     def countPrimes(self, n: int) -> int:
+        # Sieve of Eratosthenes Method
         if n < 3:
             return 0
         is_prime = [True] * n
