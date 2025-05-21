@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ShivamXxd/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShivamXxd/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShivamXxd/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ShivamXxd/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
