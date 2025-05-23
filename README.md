@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Hash Table
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
