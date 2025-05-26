@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ShivamXxd/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivamXxd/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ShivamXxd/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivamXxd/LeetCode/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivamXxd/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivamXxd/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/ShivamXxd/LeetCode/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/ShivamXxd/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivamXxd/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
