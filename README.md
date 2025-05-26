@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShivamXxd/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ShivamXxd/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ShivamXxd/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/ShivamXxd/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ShivamXxd/LeetCode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/ShivamXxd/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ShivamXxd/LeetCode/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
