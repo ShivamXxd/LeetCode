@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ShivamXxd/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ShivamXxd/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ShivamXxd/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/ShivamXxd/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/ShivamXxd/LeetCode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivamXxd/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/ShivamXxd/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
