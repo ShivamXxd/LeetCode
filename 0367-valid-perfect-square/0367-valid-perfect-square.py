@@ -1,22 +1,22 @@
 class Solution:
-    def isPerfectSquare(self, num: int, i=1) -> bool:
-        # if num < 0:
-        #     return False 
+    def isPerfectSquare(self, num: int) -> bool:
+        if num < 0:
+            return False 
         
-        # left, right = 0, num
-        # while left <= right:
-        #     mid = (left + right) // 2
-        #     if mid * mid == num: 
-        #         return True
-        #     elif mid * mid < num:
-        #         left = mid + 1
-        #     else:
-        #         right = mid - 1
+        left, right = 0, num
+        while left <= right:
+            mid = (left + right) // 2
+            if mid * mid == num: 
+                return True
+            elif mid * mid < num:
+                left = mid + 1
+            else:
+                right = mid - 1
         
-        # return False
+        return False
 
-        if i * i == num:
-            return True
-        if i * i > num:
-            return False
-        return self.isPerfectSquare(num, i + 1)
+        # if i * i == num:
+        #     return True
+        # if i * i > num:
+        #     return False
+        # return self.isPerfectSquare(num, i + 1)
