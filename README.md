@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/ShivamXxd/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamXxd/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShivamXxd/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/ShivamXxd/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/ShivamXxd/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShivamXxd/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
@@ -179,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ShivamXxd/LeetCode/tree/master/0143-reorder-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivamXxd/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/ShivamXxd/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
