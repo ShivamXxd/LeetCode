@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ShivamXxd/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ShivamXxd/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/ShivamXxd/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivamXxd/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/ShivamXxd/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [3194-find-words-containing-character](https://github.com/ShivamXxd/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
