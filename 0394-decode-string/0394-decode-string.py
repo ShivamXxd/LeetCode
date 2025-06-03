@@ -24,7 +24,7 @@ class Solution:
         stack = []
         for i in s:
             if i != ']':
-                stack.append(i)
+                stack.append(i) # add all except ]
             else:
                 addition = ""  # substring to be added which will be repeated as required
                 while stack[-1] != '[':
