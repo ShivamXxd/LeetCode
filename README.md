@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShivamXxd/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShivamXxd/LeetCode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/ShivamXxd/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ShivamXxd/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ShivamXxd/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -242,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShivamXxd/LeetCode/tree/master/0200-number-of-islands) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShivamXxd/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShivamXxd/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
