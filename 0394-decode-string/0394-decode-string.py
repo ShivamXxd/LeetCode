@@ -26,13 +26,13 @@ class Solution:
             if i != ']':
                 stack.append(i)
             else:
-                addition = ""
+                addition = ""  # substring to be added which will be repeated as required
                 while stack[-1] != '[':
-                    addition = stack.pop() + addition
-                stack.pop()
-                repeat = ""
+                    addition = stack.pop() + addition # reverse adding so characters would be left to right
+                stack.pop()  # remove [
+                repeat = ""  # how many times we neeed to repeat can be multiple digit number, convert it fully to int
                 while stack and stack[-1].isdigit():
-                    repeat = stack.pop() + repeat
-                stack.append(int(repeat) * addition)
-                
-        return ''.join(stack)
+                    repeat = stack.pop() + repeat # repeat will be the full number ex: "100"
+                stack.append(int(repeat) * addition) # append the required sequence in stack repeated requied number of times.
+
+        return ''.join(stack) # join everything to make the result string
