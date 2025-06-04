@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivamXxd/LeetCode/tree/master/0242-valid-anagram) |
+| [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ShivamXxd/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivamXxd/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShivamXxd/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivamXxd/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivamXxd/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
+| [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Geometry
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ShivamXxd/LeetCode/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
