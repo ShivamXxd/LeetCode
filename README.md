@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivamXxd/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/ShivamXxd/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [3194-find-words-containing-character](https://github.com/ShivamXxd/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Greedy
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ShivamXxd/LeetCode/tree/master/0394-decode-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
