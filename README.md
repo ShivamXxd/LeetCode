@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ShivamXxd/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamXxd/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ShivamXxd/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
