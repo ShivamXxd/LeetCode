@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/ShivamXxd/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivamXxd/LeetCode/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
