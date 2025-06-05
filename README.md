@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ShivamXxd/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/ShivamXxd/LeetCode/tree/master/0394-decode-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ShivamXxd/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 ## Geometry
@@ -294,5 +296,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ShivamXxd/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
