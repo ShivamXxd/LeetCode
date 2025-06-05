@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/ShivamXxd/LeetCode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/ShivamXxd/LeetCode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/ShivamXxd/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0898-transpose-matrix) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ShivamXxd/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivamXxd/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivamXxd/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 ## Geometry
 |  |
 | ------- |
@@ -291,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
