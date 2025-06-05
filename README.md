@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/ShivamXxd/LeetCode/tree/master/0394-decode-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShivamXxd/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Geometry
 |  |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/ShivamXxd/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
