@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivamXxd/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/ShivamXxd/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/ShivamXxd/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ShivamXxd/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [3194-find-words-containing-character](https://github.com/ShivamXxd/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/ShivamXxd/LeetCode/tree/master/0561-array-partition) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ShivamXxd/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Hash Table
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0229-majority-element-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ShivamXxd/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
