@@ -13,9 +13,10 @@ class Solution:
             
             mid = (left + right) // 2
             root = TreeNode(nums[mid])
-            root.left = helper(left, mid - 1)
-            root.right = helper(mid + 1, right)
+            root.left = helper(left, mid - 1) # left = 0, right = mid - 1. So nums[mid] = middle element's previous
+            root.right = helper(mid + 1, right) # mid element's right element
+            # we create nodes of bst here with the helper function
             
-            return root
+            return root # returning the built up BST
         
-        return helper(0, len(nums) - 1)
+        return helper(0, len(nums) - 1) # start from 0 and end so we get middle element as root.
