@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ShivamXxd/LeetCode/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivamXxd/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0649-dota2-senate](https://github.com/ShivamXxd/LeetCode/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/ShivamXxd/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/ShivamXxd/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ShivamXxd/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/ShivamXxd/LeetCode/tree/master/0561-array-partition) |
+| [0649-dota2-senate](https://github.com/ShivamXxd/LeetCode/tree/master/0649-dota2-senate) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ShivamXxd/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShivamXxd/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Hash Table
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShivamXxd/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivamXxd/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/ShivamXxd/LeetCode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 ## Counting Sort
 |  |
