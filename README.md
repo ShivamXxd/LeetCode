@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShivamXxd/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ShivamXxd/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ShivamXxd/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ShivamXxd/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ShivamXxd/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShivamXxd/LeetCode/tree/master/0231-power-of-two) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShivamXxd/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ShivamXxd/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0875-longest-mountain-in-array](https://github.com/ShivamXxd/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/ShivamXxd/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ShivamXxd/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ShivamXxd/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Design
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShivamXxd/LeetCode/tree/master/0561-array-partition) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShivamXxd/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
