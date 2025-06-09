@@ -26,7 +26,8 @@ class Solution:
             queue = deque([(root, 1)])  # (node, current_depth)
             while queue:
                 node, depth = queue.popleft()
-                if not node.left and not node.right:
+                # we're basically finding the first leaf node and returning its depth
+                if not node.left and not node.right: # if leaf node, return its depth
                     return depth
                 if node.left:
                     queue.append((node.left, depth + 1))
