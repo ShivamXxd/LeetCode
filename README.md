@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivamXxd/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/ShivamXxd/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/ShivamXxd/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ShivamXxd/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ShivamXxd/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/ShivamXxd/LeetCode/tree/master/0861-flipping-an-image) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ShivamXxd/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ShivamXxd/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ShivamXxd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamXxd/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ShivamXxd/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ShivamXxd/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ShivamXxd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamXxd/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
