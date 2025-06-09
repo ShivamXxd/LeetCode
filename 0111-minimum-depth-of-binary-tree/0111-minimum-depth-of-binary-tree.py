@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
+        # DFS method: 
         # def minDepth(root):
         #     if not root: # depth is 0 when root is absent
         #         return 0
@@ -18,7 +19,7 @@ class Solution:
         #     return 1 + min(minDepth(root.left), minDepth(root.right)) # find min of left and right subtree
         # return minDepth(root)
 
-        # BFS Method
+        # BFS Method: 
         from collections import deque
         def minDepth(root):
             if not root:
