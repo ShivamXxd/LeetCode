@@ -4,7 +4,7 @@ class Solution:
             if not node:
                 return 0
             total = 0
-            if node.left:
+            if node.left: # check for left node
                 if not node.left.left and not node.left.right: # check for leaf node
                     total += node.left.val
                 else:
