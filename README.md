@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/ShivamXxd/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ShivamXxd/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ShivamXxd/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ShivamXxd/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ShivamXxd/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivamXxd/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ShivamXxd/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ShivamXxd/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ShivamXxd/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ShivamXxd/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ShivamXxd/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ShivamXxd/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/ShivamXxd/LeetCode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting Sort
 |  |
 | ------- |
