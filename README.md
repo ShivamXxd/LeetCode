@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ShivamXxd/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ShivamXxd/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/ShivamXxd/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ShivamXxd/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShivamXxd/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ShivamXxd/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ShivamXxd/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/ShivamXxd/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ShivamXxd/LeetCode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/ShivamXxd/LeetCode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/ShivamXxd/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting Sort
 |  |
 | ------- |
