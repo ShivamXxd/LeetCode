@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/ShivamXxd/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ShivamXxd/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ShivamXxd/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ShivamXxd/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/ShivamXxd/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/ShivamXxd/LeetCode/tree/master/0118-pascals-triangle) |
 | [0875-longest-mountain-in-array](https://github.com/ShivamXxd/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/ShivamXxd/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
