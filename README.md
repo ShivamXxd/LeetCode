@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ShivamXxd/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivamXxd/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/ShivamXxd/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/ShivamXxd/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShivamXxd/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamXxd/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -412,5 +413,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ShivamXxd/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShivamXxd/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
