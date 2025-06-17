@@ -18,3 +18,5 @@ class Solution:
         # return max(record, key=record.get)
         
 
+        # nums.sort()
+        # return nums[len(nums) // 2]
