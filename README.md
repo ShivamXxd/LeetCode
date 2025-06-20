@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivamXxd/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShivamXxd/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ShivamXxd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShivamXxd/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShivamXxd/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamXxd/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXxd/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivamXxd/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShivamXxd/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ShivamXxd/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ShivamXxd/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ShivamXxd/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShivamXxd/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ShivamXxd/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
