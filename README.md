@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivamXxd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ShivamXxd/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivamXxd/LeetCode/tree/master/0067-add-binary) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivamXxd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivamXxd/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/ShivamXxd/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivamXxd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ShivamXxd/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ShivamXxd/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/ShivamXxd/LeetCode/tree/master/0096-unique-binary-search-trees) |
