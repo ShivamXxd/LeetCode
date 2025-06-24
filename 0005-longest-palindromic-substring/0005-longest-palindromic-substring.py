@@ -11,7 +11,7 @@ class Solution:
         
         for l in range(2, n + 1): # for remaining substrings of length >= 2
             for i in range(n - l + 1): # all substring of length l starting from index i
-                j = i + l - 1
+                j = i + l - 1  # ending index of the current substring i.e start + length - 1
                 if s[i] == s[j]:  # if starting and ending characters match then we start the palindrome search
                     if l == 2 or dp[i + 1][j - 1]:
                         dp[i][j] = True
