@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShivamXxd/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivamXxd/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ShivamXxd/LeetCode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/ShivamXxd/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ShivamXxd/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShivamXxd/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ShivamXxd/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ShivamXxd/LeetCode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/ShivamXxd/LeetCode/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/ShivamXxd/LeetCode/tree/master/0649-dota2-senate) |
