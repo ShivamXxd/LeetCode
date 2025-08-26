@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShivamXxd/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ShivamXxd/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamXxd/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShivamXxd/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ShivamXxd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShivamXxd/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ShivamXxd/LeetCode/tree/master/0043-multiply-strings) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShivamXxd/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamXxd/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/ShivamXxd/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ShivamXxd/LeetCode/tree/master/0141-linked-list-cycle) |
